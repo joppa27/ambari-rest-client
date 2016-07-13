@@ -20,7 +20,10 @@
         },
         {
           "name": "ZOOKEEPER_SERVER"
-        }, 
+        },
+        {
+          "name": "OOZIE_SERVER"
+        },
         {
           "name" : "METRICS_COLLECTOR"
         },
@@ -47,6 +50,9 @@
         },
         {
           "name": "MAPREDUCE2_CLIENT"
+        },
+        {
+          "name": "OOZIE_CLIENT"
         },
         {
           "name": "ZOOKEEPER_CLIENT"
