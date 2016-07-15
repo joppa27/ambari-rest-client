@@ -175,7 +175,7 @@
     }
   ],
   "Blueprints": {
-    "blueprint_name": "hdp-multinode-default",
+    "blueprint_name": "my-hdp-multinode-default",
     "stack_name": "HDP",
     "stack_version": "2.2"
   }
