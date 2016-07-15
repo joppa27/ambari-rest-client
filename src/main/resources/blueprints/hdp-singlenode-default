@@ -56,8 +56,8 @@
     }
   ],
   "Blueprints": {
-    "blueprint_name": "my-hdp-singlenode-2.2",
+    "blueprint_name": "my-hdp-singlenode-2.4",
     "stack_name": "HDP",
-    "stack_version": "2.2"
+    "stack_version": "2.4"
   }
 }
