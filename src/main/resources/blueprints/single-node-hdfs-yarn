@@ -44,6 +44,12 @@
       },
       {
         "name" : "METRICS_MONITOR"
+      },
+      {
+        "name" : "OOZIE_SERVER"
+      },
+            {
+        "name" : "OOZIE_CLIENT"
       }
       ],
       "cardinality" : "1"
