@@ -48,7 +48,7 @@
       {
         "name" : "OOZIE_SERVER"
       },
-            {
+      {
         "name" : "OOZIE_CLIENT"
       }
       ],
